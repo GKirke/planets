@@ -2,3 +2,4 @@ Mars is red.
 It is also dry.
 It is the fourth planet from the Sun.
 It has three rovers.
+It isn't make of cheese, unlike the moon!
